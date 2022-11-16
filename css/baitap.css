@@ -1,0 +1,22 @@
+img{
+    max-width:100%;
+}
+div {
+    width: calc(33.333% - 60px);
+    float: left;
+    margin: 5px;
+    background-color: rgba(172, 199, 177, 0.53);
+    padding: 5px;
+    border-radius: 1px;
+    line-height: 0.5;
+    text-decoration: #ffa500;
+    font-style: normal;
+}
+
+div:hover{
+        background-color: #e1ceb5;
+}
+
+u{
+    color: #35cdd2;
+}
